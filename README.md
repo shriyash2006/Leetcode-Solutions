@@ -18,13 +18,16 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **1** | **0** | **1** | **0** | Sun, 22 Nov 2026 10:15:30 GMT |
+| **4** | **2** | **2** | **0** | Sun, 22 Nov 2026 10:46:01 GMT |
 
 ### 📑 Solved Problems Index
 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|:----------:|:--------:|:--------:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [Code](2.%20Add%20Two%20Numbers/Solution.java) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | java | [Code](189.%20Rotate%20Array/Solution.java) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | java | [Code](190.%20Reverse%20Bits/Solution.java) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | java | [Code](191.%20Number%20of%201%20Bits/Solution.java) |
 
 ---
 *Auto-generated and kept in sync by [CodeSync – LeetCode to GitHub](https://github.com/shriyash2006/Leetcode-Solutions).*
