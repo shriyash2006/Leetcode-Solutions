@@ -18,13 +18,14 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **1** | **0** | **1** | **0** | Sun, 22 Nov 2026 09:56:03 GMT |
+| **2** | **0** | **2** | **0** | Sun, 22 Nov 2026 08:26:56 GMT |
 
 ### 📑 Solved Problems Index
 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|:----------:|:--------:|:--------:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [Code](2.%20Add%20Two%20Numbers/Solution.java) |
+| 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | java | [Code](73.%20Set%20Matrix%20Zeroes/Solution.java) |
 
 ---
 *Auto-generated and kept in sync by [CodeSync – LeetCode to GitHub](https://github.com/shriyash2006/Leetcode-Solutions).*
