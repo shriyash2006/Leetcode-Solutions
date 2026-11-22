@@ -18,7 +18,7 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **4** | **2** | **2** | **0** | Sun, 22 Nov 2026 10:46:01 GMT |
+| **5** | **2** | **3** | **0** | Sun, 22 Nov 2026 10:56:27 GMT |
 
 ### 📑 Solved Problems Index
 
@@ -28,6 +28,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | java | [Code](189.%20Rotate%20Array/Solution.java) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | java | [Code](190.%20Reverse%20Bits/Solution.java) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | java | [Code](191.%20Number%20of%201%20Bits/Solution.java) |
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | bash | [Code](192.%20Word%20Frequency/Solution.txt) |
 
 ---
 *Auto-generated and kept in sync by [CodeSync – LeetCode to GitHub](https://github.com/shriyash2006/Leetcode-Solutions).*
