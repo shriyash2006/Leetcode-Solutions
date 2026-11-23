@@ -18,7 +18,7 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **6** | **2** | **3** | **1** | Sun, 22 Nov 2026 16:55:11 GMT |
+| **7** | **2** | **4** | **1** | Mon, 23 Nov 2026 14:18:08 GMT |
 
 ### 📑 Solved Problems Index
 
@@ -26,6 +26,7 @@
 |---|-------|:----------:|:--------:|:--------:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [Code](2.%20Add%20Two%20Numbers/Solution.java) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | java | [Code](25.%20Reverse%20Nodes%20in%20k-Group/Solution.java) |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | java | [Code](43.%20Multiply%20Strings/Solution.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | java | [Code](189.%20Rotate%20Array/Solution.java) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | java | [Code](190.%20Reverse%20Bits/Solution.java) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | java | [Code](191.%20Number%20of%201%20Bits/Solution.java) |
