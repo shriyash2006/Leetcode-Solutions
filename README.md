@@ -76,4 +76,16 @@ javac Solution.java
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0072-edit-distance) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
