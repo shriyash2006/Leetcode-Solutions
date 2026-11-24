@@ -65,3 +65,15 @@ cd "100. Same Tree"
 # Compile
 javac Solution.java
 ```
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0072-edit-distance) |
+<!---LeetCode Topics End-->
