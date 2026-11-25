@@ -88,4 +88,12 @@ javac Solution.java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
