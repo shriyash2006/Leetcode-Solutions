@@ -80,6 +80,7 @@ javac Solution.java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +97,12 @@ javac Solution.java
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/shriyash2006/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
