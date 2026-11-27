@@ -18,7 +18,7 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **9** | **2** | **6** | **1** | Tue, 24 Nov 2026 18:19:14 GMT |
+| **10** | **3** | **6** | **1** | Fri, 27 Nov 2026 12:42:06 GMT |
 
 ### 📑 Solved Problems Index
 
@@ -33,6 +33,7 @@
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | java | [Code](190.%20Reverse%20Bits/Solution.java) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | java | [Code](191.%20Number%20of%201%20Bits/Solution.java) |
 | 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | Medium | bash | [Code](192.%20Word%20Frequency/Solution.txt) |
+| 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | Easy | bash | [Code](193.%20Valid%20Phone%20Numbers/Solution.txt) |
 
 ---
 *Auto-generated and kept in sync by [CodeSync – LeetCode to GitHub](https://github.com/shriyash2006/Leetcode-Solutions).*
