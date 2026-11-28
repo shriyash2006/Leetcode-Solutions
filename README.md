@@ -18,17 +18,21 @@
 
 | Total Solved | Easy 🟢 | Medium 🟡 | Hard 🔴 | Last Sync |
 |:---:|:---:|:---:|:---:|:---:|
-| **10** | **3** | **6** | **1** | Fri, 27 Nov 2026 12:42:06 GMT |
+| **14** | **3** | **8** | **3** | Sat, 28 Nov 2026 13:04:23 GMT |
 
 ### 📑 Solved Problems Index
 
 | # | Title | Difficulty | Language | Solution |
 |---|-------|:----------:|:--------:|:--------:|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | java | [Code](2.%20Add%20Two%20Numbers/Solution.java) |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | java | [Code](11.%20Container%20With%20Most%20Water/Solution.java) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | java | [Code](19.%20Remove%20Nth%20Node%20From%20End%20of%20List/Solution.java) |
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | java | [Code](25.%20Reverse%20Nodes%20in%20k-Group/Solution.java) |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | java | [Code](43.%20Multiply%20Strings/Solution.java) |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | Hard | java | [Code](52.%20N-Queens%20II/Solution.java) |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | java | [Code](72.%20Edit%20Distance/Solution.java) |
+| 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | java | [Code](74.%20Search%20a%202D%20Matrix/Solution.java) |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | Hard | java | [Code](126.%20Word%20Ladder%20II/Solution.java) |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | java | [Code](189.%20Rotate%20Array/Solution.java) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | Easy | java | [Code](190.%20Reverse%20Bits/Solution.java) |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | java | [Code](191.%20Number%20of%201%20Bits/Solution.java) |
